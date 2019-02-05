@@ -2,7 +2,7 @@
 library(readxl)
 
 getwd()
-setwd("C:/Users/yongy/Dropbox/ncsu final year classes/multivariate/project")
+setwd("C:/Users/../multivariate/project")
 data <- read_excel("default of credit card clients.xls")
 
 #reassign values
